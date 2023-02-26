@@ -1,2 +1,2 @@
 # BladeEleBuilder
-STL→npy blade element file.
+proto→npy blade element file.
